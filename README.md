@@ -40,10 +40,3 @@ The analysis was conducted using data collected from Swiggy's internal analytics
 ## Conclusion
 
 This project provides a detailed examination of Swiggy's 2019 performance, offering valuable insights into the factors influencing customer behavior and order levels. The findings are intended to inform Swiggy's strategic decisions, helping the company refine its marketing tactics, improve user engagement, and ultimately drive higher conversion rates.
-
-## Repository Structure
-
-- `data/`: Contains the dataset used for analysis.
-- `notebooks/`: Includes Jupyter notebooks with the analysis and visualization code.
-- `reports/`: The final analysis report and summary of findings.
-- `visualizations/`: Power BI dashboards and other visual representations of the data.
